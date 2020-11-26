@@ -3,18 +3,37 @@
 A ideia veio de um artigo que me deparei na web e descidi fazer um app para fazer o calculo da quantidade ideal de agua que deve ser ingerida duranto o dia dia
 com base no peso corporal do usuario.
 
-## Executando o projeto
+## 🔬 Tecnologias
 
-### se estiver utilizando yarn: 
-* execute o comando ```yarn install```.
-* apos instalar as dependencias basta executar ```yarn start```.
+esse projeto foi desenvolvido com:
 
-### caso queira utilizar npm: 
-* execute o comando ```npm install```
-* apos instalar as dependencias basta executar ```npm start```
+- React Native [!React Native](https://img.icons8.com/ultraviolet/344/react.png)
+- TypeScript [!typescrip](https://img.icons8.com/color/344/typescript.png)
 
-### abrindo o app no celular
-* Baixe o app do Expo em sua loja de aplicativos
-* Certifique-se que seu smartphone esteja conectado a mesma rede a qual o computador que esta executando o código.
-* Apos executar o código ira abri em seu navegador uma dashboard contento um QRcode. Leia-o com o seu smartphone.
-com isso seu app ja estara rodando em seu aparelho.
+## Projeto
+
+O projeto tem como objetivo calcular a quantidade recomentada de água por dia com base no peso corporal do usuário
+
+## Pré-requisitos:
+
+Você procisa do NodeJs e um gerenciador de dependencias(NPM ou YARN) em sua maquina.
+
+```
+// instalando as dependencias:
+npm install
+// ou 
+yarn install
+
+// executando o projeto:
+npm start
+// ou
+yarn start 
+```
+
+# Author:
+
+- **Sander Paniago** - [LinkedIn](https://www.linkedin.com/in/sanderpaniago) - [instagram]([https://www.instagram.com/sander_paniago/](https://www.instagram.com/sander_paniago/))
+
+# licenças
+
+Este projeto é licenciado sobre a licença MIT - [LICENSE.md](LICENSE.md) para mais informações.
