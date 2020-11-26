@@ -7,8 +7,8 @@ com base no peso corporal do usuario.
 
 esse projeto foi desenvolvido com:
 
-- React Native [!React Native](https://img.icons8.com/ultraviolet/344/react.png)
-- TypeScript [!typescrip](https://img.icons8.com/color/344/typescript.png)
+- React Native <img src="https://user-images.githubusercontent.com/52095222/100380550-757fda80-2fed-11eb-8d4f-db4d67afd6a0.png" width="30" height="30">
+- TypeScript <img src="https://user-images.githubusercontent.com/52095222/100379991-50d73300-2fec-11eb-8db7-c200351ed064.png" width="30" height="30">
 
 ## Projeto
 
@@ -34,6 +34,3 @@ yarn start
 
 - **Sander Paniago** - [LinkedIn](https://www.linkedin.com/in/sanderpaniago) - [instagram]([https://www.instagram.com/sander_paniago/](https://www.instagram.com/sander_paniago/))
 
-# licenças
-
-Este projeto é licenciado sobre a licença MIT - [LICENSE.md](LICENSE.md) para mais informações.
