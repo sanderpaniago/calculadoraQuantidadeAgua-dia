@@ -20,7 +20,7 @@ O projeto tem como objetivo calcular a quantidade recomentada de água por dia c
 
 ## Pré-requisitos:
 
-Você procisa do NodeJs e um gerenciador de dependencias(NPM ou YARN) em sua maquina.
+Você precisa do NodeJs e um gerenciador de dependencias(NPM ou YARN) em sua maquina.
 
 ```
 // instalando as dependencias:
